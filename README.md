@@ -1,2 +1,2 @@
 # HTML-FOUNDATION-ASSIGNMENT2
-assignment about html head
+assignment about html head properties 
